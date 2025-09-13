@@ -1,4 +1,5 @@
-﻿class Laskutoimitus
+﻿// Testattu
+class Laskutoimitus
 {
     public double Summa(double a, double b)
     {

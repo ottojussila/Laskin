@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Laskin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cb4757a04b756a9a9f3d3d6c188384c42b1e2b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Laskin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Laskin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
